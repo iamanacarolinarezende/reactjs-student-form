@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.barbie-container {
+  background-color: #ffe4e1; /* Light pink background */
+  padding: 20px;
+  border-radius: 15px;
+  border: 2px solid #ff69b4; /* Hot pink border */
+}
+
+.barbie-heading {
+  color: #ff1493; /* Deep pink */
+  font-family: 'Cursive', sans-serif;
+}
+
+.barbie-subheading {
+  color: #ff69b4;
+  font-family: 'Cursive', sans-serif;
+}
+
+.barbie-label {
+  color: #ff1493;
+}
+
+.barbie-input {
+  border-color: #ff69b4;
+  background-color: #fff0f5;
+}
+
+.barbie-button {
+  background-color: #ff69b4;
+  border-color: #ff1493;
+  font-weight: bold;
+  font-family: 'Cursive', sans-serif;
+}
+
+.barbie-table th {
+  background-color: #ff69b4;
+  color: white;
+}
+
+.barbie-table tbody tr {
+  background-color: #fff0f5;
+}

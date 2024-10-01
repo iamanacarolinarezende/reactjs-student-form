@@ -1,0 +1,51 @@
+.sand-container {
+    background-color: #FFF; /* Areia clara */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .sand-heading {
+    color: #4B4B4B; /* Cinza escuro */
+    font-family: 'Georgia', serif;
+  }
+  
+  .sand-subheading {
+    color: #4B4B4B;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .sand-label {
+    color: #8B4513; /* Marrom suave */
+    font-weight: bold;
+  }
+  
+  .sand-input {
+    border: 1px solid #CD853F; /* Bordas marrom claro */
+    background-color: #FAF0E6; /* Areia suave */
+    color: #4B4B4B;
+  }
+  
+  .sand-button {
+    background-color: #8B4513;
+    color: white;
+    border: none;
+  }
+  
+  .sand-button:hover {
+    background-color: #A0522D; /* Marrom mais escuro */
+  }
+  
+  .sand-table {
+    background-color: #F5F5DC;
+    border: 1px solid #8B4513;
+  }
+  
+  .sand-table th {
+    background-color: #CD853F; /* Marrom claro */
+    color: white;
+  }
+  
+  .sand-table td {
+    color: #4B4B4B;
+  }
+  
